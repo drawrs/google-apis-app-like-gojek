@@ -14,7 +14,7 @@ import com.google.android.gms.location.places.AutocompleteFilter;
 import com.google.android.gms.location.places.Place;
 import com.google.android.gms.location.places.ui.PlaceAutocomplete;
 import com.google.android.gms.maps.model.LatLng;
-
+//https://hacktoberfest.digitalocean.com/details
 public class PlaceAutoCompleteActivity extends AppCompatActivity {
 
 
