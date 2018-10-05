@@ -9,7 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
-
+//add this comment for follow this event https://hacktoberfest.digitalocean.com/details
 public class MainActivity extends AppCompatActivity {
 
     @Override
